@@ -51,6 +51,8 @@ To run the script, use the following command in your terminal:
 ### User Interface
 The script includes a simple GUI built with Tkinter, allowing users to add or remove keywords and countries interactively before starting the scraping process.
 
+<img width="344" alt="UI" src="https://github.com/Op27/HumanitarianJobs-Extractor-Plus/assets/39921621/5b61f3cc-02b4-4606-a81d-9798fc3b6808">
+
 ## Features
 - Scrapes job listings from specified URLs based on country and keyword filters.
 - Outputs the results in an Excel file, categorizing them into full and selected listings based on priority keywords.
