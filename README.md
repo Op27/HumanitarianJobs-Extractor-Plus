@@ -1,6 +1,8 @@
 # HumanitarianJobs-Extractor-Plus
 HumanitarianJobs-Extractor-Plus is an advanced Python script tailored for job-seekers in the humanitarian sector. This project is the enhanced version of the earlier scraping tool, [UNJobs-Selective-Extractor](https://github.com/Op27/UNJobs-Selective-Extractor), and offers more refined capabilities for automated job scraping from international humanitarian job boards.
 
+https://github.com/Op27/HumanitarianJobs-Extractor-Plus/assets/39921621/c35dd7aa-c1b3-43a2-9e5c-cbbdc06edf60
+
 ## Key Features
 - **Automated Job Scraping**: Automatically extracts job listings from multiple humanitarian job boards using a dynamic URL parsing method based on selected countries.
 - **Keyword Filtering**: Filters job listings by user-defined keywords to ensure the results are highly relevant to the searcher’s interests.
